@@ -1,7 +1,7 @@
 Maze generation in Erlang with SDL
 ==================================
 
-Output:
+Output:  
 ![60×60](http://imgur.com/uV4XR.png)
 
 ### Setup
